@@ -3767,7 +3767,7 @@ a.btn.disabled, fieldset[disabled] a.btn {
   background-image: none;
 }
 .btn-primary.disabled, .btn-primary.disabled:hover, .btn-primary.disabled:focus, .btn-primary.disabled.focus, .btn-primary.disabled:active, .btn-primary.disabled.active, .btn-primary[disabled], .btn-primary[disabled]:hover, .btn-primary[disabled]:focus, .btn-primary[disabled].focus, .btn-primary[disabled]:active, .btn-primary[disabled].active, fieldset[disabled] .btn-primary, fieldset[disabled] .btn-primary:hover, fieldset[disabled] .btn-primary:focus, fieldset[disabled] .btn-primary.focus, fieldset[disabled] .btn-primary:active, fieldset[disabled] .btn-primary.active {
-  background-color: #7cccf8;
+  background-color: #64A4C7;
   border-color: #d61c1c;
 }
 .btn-primary .badge {
@@ -3924,7 +3924,7 @@ a.btn.disabled, fieldset[disabled] a.btn {
 }
 
 .btn-link {
-  color: #7cccf8;
+  color: #64A4C7;
   font-weight: normal;
   border-radius: 0;
 }
@@ -5211,7 +5211,7 @@ tbody.collapse.in {
   padding: 14px 12px;
   line-height: 1.42857;
   text-decoration: none;
-  color: #7cccf8;
+  color: #64A4C7;
   background-color: #fff;
   border: 1px solid #ddd;
   margin-left: -1px;
@@ -5241,8 +5241,8 @@ tbody.collapse.in {
 .pagination > .active > span:focus {
   z-index: 2;
   color: #fff;
-  background-color: #7cccf8;
-  border-color: #7cccf8;
+  background-color: #64A4C7;
+  border-color: #64A4C7;
   cursor: default;
 }
 .pagination > .disabled > span,
@@ -5518,7 +5518,7 @@ a.badge:hover, a.badge:focus {
 a.thumbnail:hover,
 a.thumbnail:focus,
 a.thumbnail.active {
-  border-color: #7cccf8;
+  border-color: #64A4C7;
 }
 
 .alert {
@@ -5636,7 +5636,7 @@ a.thumbnail.active {
   line-height: 20px;
   color: #fff;
   text-align: center;
-  background-color: #7cccf8;
+  background-color: #64A4C7;
   -webkit-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
   box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
   -webkit-transition: width 0.6s ease;
@@ -5812,8 +5812,8 @@ button.list-group-item {
 .list-group-item.active, .list-group-item.active:hover, .list-group-item.active:focus {
   z-index: 2;
   color: #fff;
-  background-color: #7cccf8;
-  border-color: #7cccf8;
+  background-color: #64A4C7;
+  border-color: #64A4C7;
 }
 .list-group-item.active .list-group-item-heading,
 .list-group-item.active .list-group-item-heading > small,
@@ -6222,22 +6222,22 @@ button.list-group-item-danger.active:focus {
 }
 
 .panel-primary {
-  border-color: #7cccf8;
+  border-color: #64A4C7;
 }
 .panel-primary > .panel-heading {
   color: #fff;
-  background-color: #7cccf8;
-  border-color: #7cccf8;
+  background-color: #64A4C7;
+  border-color: #64A4C7;
 }
 .panel-primary > .panel-heading + .panel-collapse > .panel-body {
-  border-top-color: #7cccf8;
+  border-top-color: #64A4C7;
 }
 .panel-primary > .panel-heading .badge {
-  color: #7cccf8;
+  color: #64A4C7;
   background-color: #fff;
 }
 .panel-primary > .panel-footer + .panel-collapse > .panel-body {
-  border-bottom-color: #7cccf8;
+  border-bottom-color: #64A4C7;
 }
 
 .panel-success {
@@ -7408,7 +7408,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
 }
 #fh5co-header > .navbar li a:hover {
-  color: #7cccf8;
+  color: #64A4C7;
 }
 #fh5co-header > .navbar li.active a {
   background: none !important;
@@ -7418,12 +7418,12 @@ h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase;
   letter-spacing: 2px;
   font-size: 20px;
-  font-weight: 400;
+  font-weight: 420;
   margin-left: 0px;
   display: block;
   padding-bottom: 1em;
   font-family: "Roboto Slab", arial, sans-serif;
-  background: #7cccf8;
+  background: #64A4C7;
   color: #ffffff;
 }
 
@@ -7552,7 +7552,7 @@ h1, h2, h3, h4, h5, h6 {
   #fh5co-portfolio .fh5co-portfolio-item.fh5co-img-right .fh5co-portfolio-figure {
     position: relative;
     top: auto;
-    bototm: auto;
+    bottom: auto;
     height: 400px;
   }
 }
@@ -7586,7 +7586,7 @@ h1, h2, h3, h4, h5, h6 {
   left: 0;
   width: 30px;
   height: 2px;
-  background: #7cccf8;
+  background: #64A4C7;
 }
 #fh5co-team .fh5co-staff .fh5co-social a {
   color: #ccc;
@@ -7614,7 +7614,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #fh5co-services .fh5co-service .fh5co-icon i {
   font-size: 40px;
-  color: #7cccf8;
+  color: #64A4C7;
 }
 #fh5co-services .fh5co-service .fh5co-desc {
   width: 70%;
@@ -7658,14 +7658,14 @@ pre {
   color: #2a2e37;
 }
 .btn-outline:hover, .btn-outline:active, .btn-outline:focus {
-  border: 2px solid #7cccf8 !important;
-  background: #7cccf8 !important;
+  border: 2px solid #64A4C7 !important;
+  background: #64A4C7 !important;
   color: #fff;
 }
 
 .btn-primary {
-  background: #7cccf8;
-  border: 2px solid #7cccf8;
+  background: #64A4C7;
+  border: 2px solid #64A4C7;
 }
 
 .btn-success {
@@ -7724,7 +7724,7 @@ pre {
 .form-control:hover, .form-control:focus, .form-control:active {
   outline: none;
   box-shadow: none !important;
-  border: 2px solid #7cccf8;
+  border: 2px solid #64A4C7;
 }
 
 .fh5co-nav-toggle {
@@ -7869,7 +7869,6 @@ pre {
 }
 .fh5co-list-check li:before {
   font-family: 'icomoon';
-  speak: none;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -8033,7 +8032,7 @@ pre {
   margin-top: -65px;
 }
 .owl-carousel .owl-controls .owl-nav .owl-next:hover i:before {
-  color: #7cccf8;
+  color: #64A4C7;
 }
 
 .owl-carousel .owl-controls .owl-nav .owl-prev {
@@ -8044,7 +8043,7 @@ pre {
   margin-top: 5px;
 }
 .owl-carousel .owl-controls .owl-nav .owl-prev:hover i:before {
-  color: #7cccf8;
+  color: #64A4C7;
 }
 
 .owl-carousel-posts .owl-controls .owl-nav .owl-next i,
@@ -8180,7 +8179,7 @@ pre {
 
 .js .to-animate,
 .js .animate-box {
-  opacity: 0;
+  opacity: .3;
 }
 
 .mfp-with-zoom .mfp-container,
